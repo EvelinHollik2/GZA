@@ -1,0 +1,8 @@
+C:\Users\hollik.evelin\Desktop\GZA\szoftver\Buborék rendezés\bin\Debug\Buborék rendezés.exe.config
+C:\Users\hollik.evelin\Desktop\GZA\szoftver\Buborék rendezés\bin\Debug\Buborék rendezés.exe
+C:\Users\hollik.evelin\Desktop\GZA\szoftver\Buborék rendezés\bin\Debug\Buborék rendezés.pdb
+C:\Users\hollik.evelin\Desktop\GZA\szoftver\Buborék rendezés\obj\Debug\Buborék rendezés.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\GZA\szoftver\Buborék rendezés\obj\Debug\Buborék rendezés.csproj.SuggestedBindingRedirects.cache
+C:\Users\hollik.evelin\Desktop\GZA\szoftver\Buborék rendezés\obj\Debug\Buborék rendezés.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\GZA\szoftver\Buborék rendezés\obj\Debug\Buborék rendezés.exe
+C:\Users\hollik.evelin\Desktop\GZA\szoftver\Buborék rendezés\obj\Debug\Buborék rendezés.pdb
